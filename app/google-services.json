@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "777881236492",
+    "firebase_url": "https://autocaldas-56855.firebaseio.com",
+    "project_id": "autocaldas-56855",
+    "storage_bucket": "autocaldas-56855.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777881236492:android:57a4ea87326a0373712a29",
+        "android_client_info": {
+          "package_name": "com.example.afloat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777881236492-303ka67lgsq8gl4pmh9u0goqpaj8tg93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASt4SPlWZitV4Y9cqLGo9vrQRrw8lnPYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777881236492-303ka67lgsq8gl4pmh9u0goqpaj8tg93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
